@@ -1,0 +1,7 @@
+//Configuração que habilita o autocomplete com documentação dos comandos
+{
+    "include": [
+       "./node_modules/cypress",
+     "cypress/**/*.js"
+       ]
+   }
